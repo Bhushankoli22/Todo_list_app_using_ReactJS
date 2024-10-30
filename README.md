@@ -1,5 +1,5 @@
 # React-Todo-App
-Todo list app project using react hooks
+Todo list app project using basic concepts of React
 
 <h3>Functionalities:</h3>
 <ol>
