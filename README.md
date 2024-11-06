@@ -1,5 +1,5 @@
 # React-Todo-App
-Todo list app project using basic concepts of React
+Todo list app project using basic concepts of React like understanding props and usage of them in places.
 
 <h3>Functionalities:</h3>
 <ol>
