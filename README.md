@@ -7,4 +7,4 @@ Todo list app project using basic concepts of React like understanding props and
   <li> Add Todo by pressing Enter key</li>
   <li> Delete Todo</li>
  </ol>
-Will need to add a login page for this
+Added a login page for this
